@@ -15,8 +15,8 @@
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "나의 파이프라인"
+locale                   : "ko-KR"
+title                    : "pipeline"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "goldpipe"
